@@ -7,6 +7,11 @@ My learning resources and notes. Basically brain-dump and things I like to retur
  
 # videos
  - [fosdem conference](https://video.fosdem.org/)
+ - [devox conference](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/videos)
+ - [confitura conference](https://www.youtube.com/user/confiturapl/videos)
+ - [geecon conference](https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg/videos)
+ - [atmosphere conference](https://www.youtube.com/user/AtmosphereConference/videos)
+ - [serverless](https://www.youtube.com/channel/UCFYG383lawh9Hrs_DEKTtdg/videos)
  
 # courses
 - [coursera, functional programming principles in scala] (https://www.coursera.org/learn/progfun1
@@ -16,3 +21,4 @@ My learning resources and notes. Basically brain-dump and things I like to retur
  
 # docs
 - [clojure](/clojure/clojure.md)
+- [golang](/golang/golang.md)
