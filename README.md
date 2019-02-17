@@ -20,5 +20,5 @@ My learning resources and notes. Basically brain-dump and things I like to retur
 - [udemy, gatsby - static site generator for react](https://www.udemy.com/gatsby-static-site-generator-for-react-complete-guide)
  
 # docs
-- [clojure](/clojure/clojure.md)
-- [golang](/golang/golang.md)
+- [clojure](clojure/clojure.md)
+- [golang](golang/golang.md)
