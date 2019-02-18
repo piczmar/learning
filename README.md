@@ -24,6 +24,8 @@ My learning resources and notes. Basically brain-dump and things I like to retur
 - [golang](golang/golang.md)
 
 - [Software Transactional Memory](http://java.ociweb.com/mark/stm/article.html#STM)
+- [why don't people use formal methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/)
+- [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 # blogs
 - [kubuszok.com](https://kubuszok.com/2018/different-ways-to-understand-a-monad/?utm_source=jvm-bloggers.com&utm_medium=link&utm_campaign=jvm-bloggers)
